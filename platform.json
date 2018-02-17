@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-espressif32.git"
+    "url": "https://github.com/jpjodoin/platform-espressif32.git"
   },
   "version": "0.12.0",
   "packageRepositories": [
@@ -50,7 +50,7 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "version": "~2.211.0"
+      "version": "3.0-rc1"
     },
     "framework-simba": {
       "type": "framework",
